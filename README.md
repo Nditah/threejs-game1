@@ -1,0 +1,1 @@
+Just open the index.hmtl file with Firefox or Chrome and you are good to go
